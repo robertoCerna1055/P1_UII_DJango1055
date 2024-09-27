@@ -14,4 +14,5 @@ Configuraciones basicas para trabajar con el framework de DJango
 - 11 Creando el proyecto --> django-admin startproject webSteakHouse_proy .
 - 12 Realizar migracion al proyecto --> python manage.py migrate
 - 13 Ejecutar servidor --> python manage.py runserver
+- Me trabajo en http://127.0.0.1:8000/
 
