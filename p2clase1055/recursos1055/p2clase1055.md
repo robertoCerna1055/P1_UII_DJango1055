@@ -1,0 +1,14 @@
+- Crear aplicación cernaclase_app
+- comando --> python manage.py startapp cernaclase_app
+- Creamos el archivo urls.py en cernaclase_app
+- ![alt text](image-1.png)
+- En setting.py de p2clase1055 
+- ![alt text](image-2.png)
+- En urls.py de p2clase1055 
+- ![alt text](image-3.png)
+- En urls.py en cernaclase_app
+- ![alt text](image-4.png)
+- En views.py en cernaclase_app
+- ![alt text](image-5.png)
+- En urls.py en cernaclase_app
+- ![alt text](image-6.png)
